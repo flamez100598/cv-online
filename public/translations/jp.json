@@ -177,32 +177,32 @@
     "projects": [
       {
         "title":"HRM managerment",
-        "category":"The application help manager employee and department",
+        "category":"アプリケーションは、マネージャーの従業員と部門を支援します。",
         "image":"canadian-wanderlust.jpg",
         "url":"http://103.237.147.20:5001"
       },
 
       {
         "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "category":"タイで好きなレストランのために作ったウェブサイト.",
         "image":"original-thai-food.jpg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
         "title":"LuatSu247",
-        "category":"The first site I work with my team",
+        "category":"アプリケーションは、人々がベトナムで法律に近づくのを助け、人々が法律を使用するのが困難なときは常にサポートします",
         "image":"luatsu247.png",
         "url":"https://luatsu247.com.vn/"
       },
       {
         "title":"Resume Website",
-        "category":"A React based my resume website",
+        "category":"Reactベースの履歴書ウェブサイト",
         "image":"resume-website.jpg",
         "url":"https://my-cv-online-b7945.web.app"
       },
       {
         "title":"GitHub",
-        "category":"Here are some of the source code I wrote myself to improve my skills",
+        "category": "スキルを向上させるために自分で書いたソースコードの一部を以下に示します。 ",
         "image":"gitsite.png",
         "url":"https://github.com/flamez100598?tab=repositories"
       }

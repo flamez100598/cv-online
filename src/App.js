@@ -70,9 +70,9 @@ class App extends React.Component {
 
         <Header data={this.state.resumeData.main} />
         <ul className="selectLanguages">
-          <li><button className={getLanguage() === 'jp' ? 'btn-tranfer active-language' : 'btn-tranfer'} onClick={() => this.changeLanguage('jp')}>JP</button></li>
-          <li><button className={getLanguage() === 'en' ? 'btn-tranfer active-language' : 'btn-tranfer'} onClick={() => this.changeLanguage('en')}>EN</button></li>
-          <li><button className={getLanguage() === 'vn' ? 'btn-tranfer active-language' : 'btn-tranfer'} onClick={() => this.changeLanguage('vn')}>VN</button></li>
+          <li><span className={getLanguage() === 'jp' ? 'btn-tranfer button active-language' : 'btn-tranfer button'} onClick={() => this.changeLanguage('jp')}>JP</span></li>
+          <li><span className={getLanguage() === 'en' ? 'btn-tranfer button active-language' : 'btn-tranfer button'} onClick={() => this.changeLanguage('en')}>EN</span></li>
+          <li><span className={getLanguage() === 'vn' ? 'btn-tranfer button active-language' : 'btn-tranfer button'} onClick={() => this.changeLanguage('vn')}>VN</span></li>
         </ul>
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />

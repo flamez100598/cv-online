@@ -1253,10 +1253,11 @@ footer .social-links li:first-child {
 .selectLanguages {
    display: inline-flex;
    position: fixed;
-   top: 0;
+   top: -10px;
    right: 0;
    max-height: 5%;
    margin: 0;
+   z-index: 101;
 
 }
 

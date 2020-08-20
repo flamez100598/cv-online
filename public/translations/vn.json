@@ -77,8 +77,8 @@
         "company":"Powergate Software",
         "title":"Junior development",
         "years":"Tháng 8 năm 2018 - tháng 8 năm 2020",
-        "description":[ "Làm việc trong Phần mềm Powergate đã giúp tôi đảm nhận hệ thống cơ sở hạ tầng của ứng dụng và giúp tôi có thêm kiến thức về quản lý và duy trì một dự án thuê ngoài. Phần lớn thời gian tôi làm việc ở đây trong một dự án của một công ty Ả Rập về việc đặt hàng dịch vụ sửa chữa thông qua một ứng dụng di động.Trong dự án này, tôi đã làm việc với một ngôn ngữ lập trình như anglejs với ionic 1 làm giao diện cho ứng dụng di động và nodejs .NET và máy chủ sql làm phụ trợ cho hệ thống."
-         ,"Trong suốt thời gian làm việc tại đây, đồng đội của chúng tôi luôn hoàn thành tốt các yêu cầu của khách hàng và giữ cho hệ thống này (B8ak) luôn đứng đầu danh sách tiện ích tại Ả Rập Xê Út. Nhận được nhiều thứ từ dự án này như thông thạo các ngôn ngữ lập trình như anglejs, ionic 1, .NET, nodejs, sql server, triển khai, firebase, mạng và mã gốc. Ngoài ra, có khả năng đọc hiểu tài liệu tiếng Anh, tư duy logic tốt từ việc phân tích các nhiệm vụ khó."
+        "description":[ "Làm việc trong Phần mềm Powergate đã giúp tôi đảm nhận hệ thống cơ sở hạ tầng của ứng dụng và giúp tôi có thêm kiến thức về quản lý và duy trì một dự án thuê ngoài. Phần lớn thời gian tôi làm việc ở đây trong một dự án của một công ty Ả Rập về việc đặt hàng dịch vụ sửa chữa thông qua một ứng dụng di động.Trong dự án này, tôi đã làm việc với một ngôn ngữ lập trình như angularjs, ionic 1 để làm fontend ứng dụng di động và nodejs, .NET và SQLserver làm backend cho hệ thống."
+         ,"Trong suốt thời gian làm việc tại đây, đồng đội của chúng tôi luôn hoàn thành tốt các yêu cầu của khách hàng và giữ cho hệ thống này (B8ak) luôn đứng đầu danh sách tiện ích tại Ả Rập Xê Út. Nhận được nhiều thứ từ dự án này như thông thạo các ngôn ngữ lập trình như angularjs, ionic 1, .NET, nodejs, sql server, native code, firebase, network và server. Ngoài ra, có khả năng đọc hiểu tài liệu tiếng Anh, tư duy logic tốt từ việc phân tích các nhiệm vụ khó."
           ]
       }
     ],
@@ -87,7 +87,7 @@
         "name":"Git",
         "level":"60%",
         "img": "/images/tech/git.jpg",
-        "description": "Tôi sử dụng Git cho tất cả các dự án của mình cho đến nay. Tôi đã sử dụng Git để kiểm soát phiên bản trong các nhóm nhỏ và đã đùa giỡn với việc đóng góp cho các Dự án nguồn mở."
+        "description": "Tôi sử dụng Git cho tất cả các dự án của mình cho đến nay. Tôi đã sử dụng Git để kiểm soát phiên bản trong các nhóm nhỏ và đóng góp cho các Dự án nguồn mở."
       },
       {
         "name":"Bootstrap 4",
@@ -99,7 +99,7 @@
         "name":".NET",
         "level":"65%",
         "img": "/images/tech/Microsoft_.NET_logo.png",
-        "description": " Tôi đã bắt đầu làm việc với dự án từ đầu với .NET framework, nó thực sự tốt cho tôi khi phát triển một ứng dụng web đầy đủ với cả front-end và back-end nhưng có một số hạn chế vì điều đó."
+        "description": " Tôi đã bắt đầu làm việc với dự án từ đầu với .NET framework, nó thực sự tốt cho tôi khi phát triển một ứng dụng web đầy đủ với cả front-end và back-end."
       },
       {
         "name":"ReactJs",
@@ -108,7 +108,6 @@
         "description" : "Tôi khá mới với React và thực sự không thích nó lúc đầu. Tuy nhiên, nó đã phát triển đối với tôi và tôi sẽ tiếp tục sử dụng nó trong tương lai. Tôi đã xây dựng một mẫu trang web sơ yếu lý lịch dựa trên ReactJS (liên kết bên dưới trong danh mục đầu tư) mà tôi đã sử dụng làm điểm khởi đầu cho trang web cá nhân này."
 
       },
-
       {
         "name":"Java",
         "img": "/images/tech/java.jpg",
@@ -125,13 +124,13 @@
         "name":"Nodejs",
         "level":"40%",
         "img": "/images/tech/nodejs.jpg",
-        "description": "Khi tôi bắt đầu học reactjs thì nodejs luôn là lựa chọn hàng đầu cho phần phụ trợ dự án của tôi vì nó rất đơn giản và tiện lợi."
+        "description": "Khi tôi bắt đầu học reactjs thì nodejs luôn là lựa chọn hàng đầu cho phần backend và như server dự án của tôi vì nó rất đơn giản và tiện lợi."
       },
       {
         "name":"Angularjs",
         "level":"75%",
         "img": "/images/tech/angularjs.png",
-        "description" : "Tôi có 2 năm kinh nghiệm làm việc với anglejs. Hầu hết thời gian ở công ty Powergate, tôi luôn làm một dự án với angularjs."
+        "description" : "Tôi có 2 năm kinh nghiệm làm việc với angularjs. Hầu hết thời gian ở công ty Powergate, tôi luôn làm một dự án với angularjs."
 
       }
     ], 
@@ -189,7 +188,7 @@
       },
       {
         "title":"LuatSu247",
-        "category":"The first site I work with my team",
+        "category":"The application help people close approach to the law in VietName and support always when people difficulty using the law",
         "image":"luatsu247.png",
         "url":"https://luatsu247.com.vn/"
       },
