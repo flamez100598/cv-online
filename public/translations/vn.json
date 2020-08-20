@@ -1,0 +1,218 @@
+{
+  "main": {
+    "name":"Phạm Quốc Dũng",
+    "occupation":"tốt nghiệp từ đại học công nghiệp hà nội",
+    "description":"Junior Developer chuyên về phát triển front end và back end. Có kinh nghiệm với tất cả các giai đoạn của chu kỳ phát triển cho các dự án web động. Thông thạo nhiều ngôn ngữ lập trình bao gồm HTML5, OOP, JavaScript, CSS, MySQL, C #, SQL, JAVA. Nền tảng vững chắc về quản lý dự án và quan hệ khách hàng",
+    "image":"profilepic.jpg",
+    "bio":"Đến với lập trình vì đam mê game, mình chọn ngành này vì từ nhỏ mình đã chơi game rất giỏi nhưng mình biết lập trình thực sự không đơn giản như chơi game. Tôi trượt 2 năm đầu đại học vì ham chơi. Và năm 2018 tôi bắt đầu tập trung vào những dòng code đầu tiên, tôi bắt đầu với c và c ++, từ đó niềm đam mê lập trình của tôi quay trở lại và tôi đã tham gia đội tuyển Oplympic ở trường đại học. . Tôi đã có một giải thưởng ở trường nhưng tôi biết định hướng của tôi là ứng dụng thực tế nên tôi đã xin thực tập và làm việc cho đến bây giờ.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "phamquocdungit98@gmail.com",
+    "phone": "097-690-6328",
+    "address":{
+      "address": "136 Hồ Tùng Mậu",
+      "street":"Cầu Giấy",
+      "city":"Hà Nội"
+    },
+    "website": "https://my-cv-online-b7945.web.app",
+    "resumedownload":"https://my-cv-online-b7945.web.app",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/dunghorn.net",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/HornDung",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/dunghorn/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/flamez100598",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/n9NEhY44R72z",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Tôi là một người thích mày mò và luôn thích thử nghiệm với các công nghệ mới. Có thể làm việc liên tục 32 giờ để hoàn thành dealine.",
+    "education":[
+      {
+        "school":"Đại học Công Nghiệp Hà Nội",
+        "degree":"Kỹ Sư",
+        "graduated":"tháng 7 năm 2020",
+        "description":"Học những kiến thức cơ bản về lập trình, kỹ năng làm việc nhóm, khả năng thuyết trình trước đám đông, kỹ năng giải quyết công việc, tham gia câu lạc bộ máy tính của trường!",
+        "achievements": [
+          {
+            "year":2018, "title": "đạt giải nhì ACM / ICPC cấp trường"
+          },
+          {
+            "year":2018, "title": "đạt giải nhì ItSports cấp trường"
+          }
+        ]
+      },
+      {
+        "school":"Trường cấp 3 Liên Hà",
+        "graduated":"Tháng 5 năm 2016",
+        "achievements": []
+      }
+    ],
+    "work":[
+      {
+        "company":"Công ty cổ phần 3F-Group",
+        "title":"Thực tập sinh",
+        "years":"Tháng 1 năm 2018 - tháng 8 năm 2018",
+        "description":["Tôi bắt đầu với HTML5, CSS, Bootsrap 4, Javascript. Làm việc với nhiều dự án thực tế. Triển khai chuyên về phát triển giao diện người dùng. Làm việc với khung thực thể .NET và máy chủ SQL. Tôi đã làm việc nhiều với công nghệ .NET, quản lý server cũng như dữ liệu của chúng tôi. "]
+      },
+      {
+        "company":"Powergate Software",
+        "title":"Junior development",
+        "years":"Tháng 8 năm 2018 - tháng 8 năm 2020",
+        "description":[ "Làm việc trong Phần mềm Powergate đã giúp tôi đảm nhận hệ thống cơ sở hạ tầng của ứng dụng và giúp tôi có thêm kiến thức về quản lý và duy trì một dự án thuê ngoài. Phần lớn thời gian tôi làm việc ở đây trong một dự án của một công ty Ả Rập về việc đặt hàng dịch vụ sửa chữa thông qua một ứng dụng di động.Trong dự án này, tôi đã làm việc với một ngôn ngữ lập trình như anglejs với ionic 1 làm giao diện cho ứng dụng di động và nodejs .NET và máy chủ sql làm phụ trợ cho hệ thống."
+         ,"Trong suốt thời gian làm việc tại đây, đồng đội của chúng tôi luôn hoàn thành tốt các yêu cầu của khách hàng và giữ cho hệ thống này (B8ak) luôn đứng đầu danh sách tiện ích tại Ả Rập Xê Út. Nhận được nhiều thứ từ dự án này như thông thạo các ngôn ngữ lập trình như anglejs, ionic 1, .NET, nodejs, sql server, triển khai, firebase, mạng và mã gốc. Ngoài ra, có khả năng đọc hiểu tài liệu tiếng Anh, tư duy logic tốt từ việc phân tích các nhiệm vụ khó."
+          ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%",
+        "img": "/images/tech/git.jpg",
+        "description": "Tôi sử dụng Git cho tất cả các dự án của mình cho đến nay. Tôi đã sử dụng Git để kiểm soát phiên bản trong các nhóm nhỏ và đã đùa giỡn với việc đóng góp cho các Dự án nguồn mở."
+      },
+      {
+        "name":"Bootstrap 4",
+        "level":"90%",
+        "img": "/images/tech/bootstrap.jpg",
+        "description" : "Tôi sử dụng Bootstrap thường xuyên hơn không khi thiết kế bố cục cho các trang web của mình. Đó là framework mà tôi quen thuộc nhất và do đó có thể thiết kế nhanh hơn so với những framework khác."
+      },
+      {
+        "name":".NET",
+        "level":"65%",
+        "img": "/images/tech/Microsoft_.NET_logo.png",
+        "description": " Tôi đã bắt đầu làm việc với dự án từ đầu với .NET framework, nó thực sự tốt cho tôi khi phát triển một ứng dụng web đầy đủ với cả front-end và back-end nhưng có một số hạn chế vì điều đó."
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%",
+        "img": "/images/tech/react.jpg",
+        "description" : "Tôi khá mới với React và thực sự không thích nó lúc đầu. Tuy nhiên, nó đã phát triển đối với tôi và tôi sẽ tiếp tục sử dụng nó trong tương lai. Tôi đã xây dựng một mẫu trang web sơ yếu lý lịch dựa trên ReactJS (liên kết bên dưới trong danh mục đầu tư) mà tôi đã sử dụng làm điểm khởi đầu cho trang web cá nhân này."
+
+      },
+
+      {
+        "name":"Java",
+        "img": "/images/tech/java.jpg",
+        "level":"50%",
+        "description" : "Tôi bắt đầu học OOP và cấu trúc dữ liệu với java và đang làm việc với java ở trường cùng với dự án quản lý sinh viên của một trung tâm tôi đã viết bằng java servlet với máy chủ là tomcat v8.0."
+      },
+      {
+        "name":"SQL server",
+        "level":"70%",
+        "img": "/images/tech/sqlserver.png",
+        "description": "Tôi sử dụng SQLserver để quản lý dữ liệu cũng như viết các cửa hàng để xử lý dữ liệu."
+      },
+      {
+        "name":"Nodejs",
+        "level":"40%",
+        "img": "/images/tech/nodejs.jpg",
+        "description": "Khi tôi bắt đầu học reactjs thì nodejs luôn là lựa chọn hàng đầu cho phần phụ trợ dự án của tôi vì nó rất đơn giản và tiện lợi."
+      },
+      {
+        "name":"Angularjs",
+        "level":"75%",
+        "img": "/images/tech/angularjs.png",
+        "description" : "Tôi có 2 năm kinh nghiệm làm việc với anglejs. Hầu hết thời gian ở công ty Powergate, tôi luôn làm một dự án với angularjs."
+
+      }
+    ], 
+    "languages": [
+      {
+        "title" : "English",
+        "skills": [
+          {
+            "name": "Listening",
+            "level": "30%"
+          },
+          {
+            "name": "Writing",
+            "level": "60%"
+          },
+          {
+            "name": "Reading",
+            "level": "80%"
+          }
+        ]
+      },
+      {
+        "title" : "Japanese",
+        "skills": [
+          {
+            "name": "Listening",
+            "level": "40%"
+          },
+          {
+            "name": "Writing",
+            "level": "60%"
+          },
+          {
+            "name": "Reading",
+            "level": "40%"
+          }
+        ]
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"HRM managerment",
+        "category":"The application help manager employee and department",
+        "image":"canadian-wanderlust.jpg",
+        "url":"http://103.237.147.20:5001"
+      },
+
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"LuatSu247",
+        "category":"The first site I work with my team",
+        "image":"luatsu247.png",
+        "url":"https://luatsu247.com.vn/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based my resume website",
+        "image":"resume-website.jpg",
+        "url":"https://my-cv-online-b7945.web.app"
+      },
+      {
+        "title":"GitHub",
+        "category":"Here are some of the source code I wrote myself to improve my skills",
+        "image":"gitsite.png",
+        "url":"https://github.com/flamez100598?tab=repositories"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Tôi đã có cơ hội làm việc với Dũng nhiều lần, điều đó luôn là một niềm vui. Anh ấy được thúc đẩy và thúc đẩy với một thái độ tích cực nhất quán. Anh ấy xuất sắc trong giao tiếp với người khác và luôn sẵn sàng làm việc chăm chỉ cho đến khi giải quyết được vấn đề trong tầm tay. Anh ấy luôn tạo cho chúng tôi những cuộc trò chuyện vui vẻ và rất hòa đồng.",
+        "user":"B8AK Team"
+      }
+    ]
+  }
+}

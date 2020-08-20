@@ -1,0 +1,218 @@
+{
+  "main": {
+    "name":"Pham Quoc Dung",
+    "occupation":"graduated from Hanoi Industrial University",
+    "description":"Junior Developer specializing in front end development and back end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, OOP, JavaScript, CSS, MySQL, C#, SQL, JAVA. Strong background in project management and customer relations.",
+    "image":"profilepic.jpg",
+    "bio":"Coming to programming because of my passion for games, I chose this industry because I played games very well since childhood but I know programming it really is not as simple as playing games. I missed my first 2 years in college because I was giddy. And in 2018 I started to focus on the first lines of code, I started with c and c ++, from there my passion for programming returned and I joined the Oplympic team at university. . I had an award at school but I know my orientation is to make practical applications so I applied for an internship and work until now.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "phamquocdungit98@gmail.com",
+    "phone": "097-690-6328",
+    "address":{
+      "address": "136 Ho Tung Mau",
+      "street":"Cau Giay",
+      "city":"Ha Noi"
+    },
+    "website": "https://my-cv-online-b7945.web.app",
+    "resumedownload":"https://my-cv-online-b7945.web.app",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/dunghorn.net",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/HornDung",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/dunghorn/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/flamez100598",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/n9NEhY44R72z",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "languages":[
+      {
+        "title" : "English",
+        "skills": [
+          {
+            "name": "Listening",
+            "level": "30%"
+          },
+          {
+            "name": "Writing",
+            "level": "60%"
+          },
+          {
+            "name": "Reading",
+            "level": "80%"
+          }
+        ]
+      },
+      {
+        "title" : "Japanese",
+        "skills": [
+          {
+            "name": "Listening",
+            "level": "40%"
+          },
+          {
+            "name": "Writing",
+            "level": "60%"
+          },
+          {
+            "name": "Reading",
+            "level": "40%"
+          }
+        ]
+      }
+    ],
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies. Can work 32 hours continuously to complete the dealine.",
+    "education":[
+      {
+        "school":"Ha Noi University Of Industry",
+        "degree":"Engineer",
+        "graduated":"July 2020",
+        "description":"Learn the basics of programming, teamwork skills, the ability to present to a crowd, job solving skills, join the school's computer club!",
+        "achievements": [
+          {
+            "year":2018, "title": "won second prize at ACM / ICPC at school level"
+          },
+          {
+            "year":2018, "title": "won second prize at the school level ItSports"
+          }
+        ]
+      },
+      {
+        "school":"Lien Ha High School",
+        "graduated":"May 2016",
+        "achievements": []
+      }
+    ],
+    "work":[
+      {
+        "company":"3F-Group Company",
+        "title":"Internship",
+        "years":"January 2018 - August 2018",
+        "description":["Beginner with HTML5, CSS, Bootsrap 4, Javascript. Work with many real projects. Implement specializing in front end development. Working with .NET entity framework and SQL server. I have worked with our legacy .NET backend, as well as built new node-based servers for new products. "]
+      },
+      {
+        "company":"Powergate Software",
+        "title":"Junior development",
+        "years":"Setemper 2018 - August 2020",
+        "description":[ "Working in the Powergate Software has givent me undertanding a application's infrastructure system and helps me gain more knowledge with managing and maintaining an outsource project. Most of the time I work here on a project of an Indian company about ordering a repair service through a mobile application.In this project I was working with a programming language such as angularjs with ionic 1 as the interface for mobile application and nodejs .NET and sql server as backend for the system."
+         ,"During the time working here, our teammates always fulfilled the requirements of the customers well and kept this system (B8ak) at the top of the utility list in Saudi Arabia. Get a lot of things from this project like proficiency in programming languages such as angularjs, ionic 1, .NET, nodejs, sql server, deployment, firebase, network and native code. In addition, having the ability to read English documents is good logic of thinking from analyzing difficult tasks"
+          ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%",
+        "img": "/images/tech/git.jpg",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects."
+      },
+      {
+        "name":"Bootstrap 4",
+        "level":"90%",
+        "img": "/images/tech/bootstrap.jpg",
+        "description" : "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others."
+      },
+      {
+        "name":".NET",
+        "level":"75%",
+        "img": "/images/tech/Microsoft_.NET_logo.png",
+        "description": "I have started working on the project from scratch with .NET framework, it is really good for me to develop a full web application with both front-end and back-end but there are some limitations because of that."
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%",
+        "img": "/images/tech/react.jpg",
+        "description" : "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site."
+
+      },
+
+      {
+        "name":"Java",
+        "img": "/images/tech/java.jpg",
+        "level":"50%",
+        "description" : "I started learning OOP and data structures with java and was working with a java at school along with a student management project of a center I wrote in java servlet with server is tomcat v8.0."
+      },
+      {
+        "name":"SQL server",
+        "level":"70%",
+        "img": "/images/tech/sqlserver.png",
+        "description": "I use sql server for data management as well as writing stores for data processing"
+      },
+      {
+        "name":"Nodejs",
+        "level":"40%",
+        "img": "/images/tech/nodejs.jpg",
+        "description": "When I started learning reactjs nodejs was always the first choice for my project backend because it was very simple and convenient."
+      },
+      {
+        "name":"Angularjs",
+        "level":"75%",
+        "img": "/images/tech/angularjs.png",
+        "description" : "I have 2 years of experience working with angularjs. Most of the time I was at Powergate software I always did a project with it"
+
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"HRM managerment",
+        "category":"The application help manager employee and department",
+        "image":"canadian-wanderlust.jpg",
+        "url":"http://103.237.147.20:5001"
+      },
+
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"LuatSu247",
+        "category":"The first site I work with my team",
+        "image":"luatsu247.png",
+        "url":"https://luatsu247.com.vn/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based my resume website",
+        "image":"resume-website.jpg",
+        "url":"https://my-cv-online-b7945.web.app"
+      },
+      {
+        "title":"GitHub",
+        "category":"Here are some of the source code I wrote myself to improve my skills",
+        "image":"gitsite.png",
+        "url":"https://github.com/flamez100598?tab=repositories"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I have had the opportunity to work with Dũng on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. He excels at communicating with others and is always willing to work hard until he solves the problem at hand. He always make us fun inconversation and very sociable.",
+        "user":"B8AK Team"
+      }
+    ]
+  }
+}

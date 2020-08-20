@@ -1,0 +1,19 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
+import App from './App'
+import './index.css'
+import * as serviceWorker from './serviceWorker'
+
+import { setDefaultLanguage, setDefaultTranslations } from 'react-multi-lang'
+import en from './translations/en.json'
+import jp from './translations/jp.json'
+import vn from './translations/vn.json';
+setDefaultTranslations({jp, en, vn})
+setDefaultLanguage('en')
+
+ReactDOM.render(<App />, document.getElementById('root'));
+
+// If you want your app to work offline and load faster, you can change
+// unregister() to register() below. Note this comes with some pitfalls.
+// Learn more about service workers: https://bit.ly/CRA-PWA
+serviceWorker.unregister();

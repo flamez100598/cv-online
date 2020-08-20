@@ -1,0 +1,46 @@
+{
+  "header": {
+    "home" : "Trang chủ",
+    "About": "About",
+    "Works": "Works",
+    "Resume": "Resume",
+    "Testimonials" : "Testimonals",
+    "Contact": "Contact",
+    "im" :" "
+  },
+  "introduce": {
+    "job" : "Tôi là 1 kỹ sư CNTT",
+    "about_me" : "Về tôi",
+    "contact_details": "Chi tiết liên hệ",
+    "download_resume": "Tải xuống",
+    "view_pdf": "Tải pdf"
+  },
+  "BODY" : {
+    "Year": "Year",
+    "Graduated" : "Graduated",
+    "EDUCATION": "EDUCATION",
+    "WORK": "WORK",
+    "SKILLS": "SKILLS",
+    "CHECK_OUT_SOME_OF_MY_WORKS" : "CHECK OUT SOME OF MY WORKS",
+    "LANGUAGE" : "LANGUAGE",
+    "English": "Tiếng Anh",
+    "Japanese": "Tiếng Nhật",
+    "Listening": "Nghe",
+    "Writing": "Viết",
+    "Reading": "Đọc"
+
+  },
+  "FOOTER" : {
+    "COPY_RIGHT": "Copyright",
+    "DESIGN_BY": "Design by",
+    "ADDRESS_AND_PHONE" : "Địa chỉ và số điện thoại",
+    "FORM" : {
+      "NAME": "Name",
+      "EMAIL": "Email",
+      "SUBJECT": "Subject",
+      "MESSAGE": "Message",
+      "SUBMIT" : "SUBMIT"
+    },
+    "GET_IN_TOUCH" : "Get In Touch"
+  }
+}

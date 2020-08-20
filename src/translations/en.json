@@ -1,0 +1,46 @@
+{
+  "header": {
+    "home" : "Home",
+    "About": "About",
+    "Works": "Works",
+    "Resume": "Resume",
+    "Testimonials" : "Testimonals",
+    "Contact": "Contact",
+    "im" :"I'm"
+  },
+  "introduce": {
+    "job" : "I'm an engineer",
+    "about_me" : "About me",
+    "contact_details": "Contact Details",
+    "download_resume": "Download Resume",
+    "view_pdf": "Download pdf"
+  },
+  "BODY" : {
+    "Year": "Year",
+    "Graduated" : "Graduated",
+    "EDUCATION": "EDUCATION",
+    "WORK": "WORK",
+    "SKILLS": "SKILLS",
+    "CHECK_OUT_SOME_OF_MY_WORKS" : "CHECK OUT SOME OF MY WORKS",
+    "LANGUAGE" : "LANGUAGE",
+    "English": "English",
+    "Japanese": "Japanese",
+    "Listening": "Listening",
+    "Writing": "Writing",
+    "Reading": "Reading"
+
+  },
+  "FOOTER" : {
+    "COPY_RIGHT": "Copyright",
+    "DESIGN_BY": "Design by",
+    "ADDRESS_AND_PHONE" : "Address and Phone",
+    "FORM" : {
+      "NAME": "Name",
+      "EMAIL": "Email",
+      "SUBJECT": "Subject",
+      "MESSAGE": "Message",
+      "SUBMIT" : "SUBMIT"
+    },
+    "GET_IN_TOUCH" : "Get In Touch"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "header": {
+    "home" : "ホーム",
+    "About": "約",
+    "Works": "作品",
+    "Resume": "履歴書",
+    "Testimonials" : "お客様の声",
+    "Contact": "連絡先",
+    "im" :"私は"
+  },
+  "introduce": {
+    "job" : "私はエンジニアです ",
+    "about_me" : "私について",
+    "contact_details": "連絡先の詳細",
+    "download_resume": "履歴書をダウンロード",
+    "view_pdf": "ダウンロード pdf"
+
+  },
+  "BODY" : {
+    "Year": "年",
+    "Graduated" : "卒業した",
+    "EDUCATION": "教育",
+    "WORK": "作業",
+    "SKILLS": "スキル",
+    "CHECK_OUT_SOME_OF_MY_WORKS" : "私の作品のいくつかをチェックしてください",
+    "LANGUAGE" : "外国語",
+    "English": "英語",
+    "Japanese": "日本語",
+    "Listening": "聴く",
+    "Writing": "書く",
+    "Reading": "読解"
+
+  },
+  "FOOTER" : {
+    "COPY_RIGHT": "著作権",
+    "DESIGN_BY": "のデザインです",
+    "ADDRESS_AND_PHONE" : "住所と電話番号",
+    "FORM" : {
+      "NAME": "名前",
+      "EMAIL": "Eメール",
+      "SUBJECT": "件名",
+      "MESSAGE": "メッセージ",
+      "SUBMIT" : "参加する"
+    },
+    "GET_IN_TOUCH" : "連絡する"
+  }
+  
+}

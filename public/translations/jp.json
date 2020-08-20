@@ -1,0 +1,219 @@
+{
+  "main": {
+    "name":"ファムコックフン",
+    "occupation":"ハノイ工科大学卒業",
+    "description":"フロントエンド開発とバックエンド開発を専門とするジュニア開発者。 動的Webプロジェクトの開発サイクルのすべての段階での経験。 HTML5、OOP、JavaScript、CSS、MySQL、C＃、SQL、JAVAなど、多数のプログラミング言語に精通しています。 プロジェクト管理と顧客関係の強力なバックグラウンド.",
+    "image":"profilepic.jpg",
+    "bio":"ゲームへの情熱からプログラミングを始めました。子供の頃からゲームを上手にプレイしていたので、この業界を選びましたが、プログラミングはゲームをプレイするほど簡単ではないことを知っています。 めまいがしたので、大学での最初の2年間を逃しました。 そして2018年にコードの最初の行に集中し始め、cとc ++から始めました。そこからプログラミングへの情熱が戻り、大学のオリンピックチームに加わりました。 。 学校で表彰されましたが、実用化を志向しているので、今までインターンに応募して仕事をしていました。",
+    "contactmessage":"私のためのプロジェクトがありますか？ あなたのチームにぴったりだと思いますか？ ご連絡をお待ちしております。連絡を取りたい場合は、メールまたは下のフォームを使用してお知らせください。",
+    "email": "phamquocdungit98@gmail.com",
+    "phone": "097-690-6328",
+    "address":{
+      "address": "136 Ho Tung Mau",
+      "street":"Cau Giay",
+      "city":"Ha Noi"
+    },
+    "website": "https://my-cv-online-b7945.web.app",
+    "resumedownload":"https://my-cv-online-b7945.web.app",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/dunghorn.net",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/HornDung",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/dunghorn/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/flamez100598",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/n9NEhY44R72z",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"私はいじくり屋で、常に新しいテクノロジーをいじるのに興味があります。 32時間連続して作業を完了できます。",
+    "education":[
+      {
+        "school":"ハノイ工業大学",
+        "degree":"エンジニア",
+        "graduated":"七月 2020",
+        "description":"プログラミングの基本、チームワークのスキル、群衆に提示する能力、仕事解決のスキルを学び、学校のコンピュータクラブに参加してください！",
+        "achievements": [
+          {
+            "year":2018, "title": "学校レベルのACM / ICPCで2位を受賞"
+          },
+          {
+            "year":2018, "title": "学校のITSportsで2等賞を受賞"
+          }
+        ]
+      },
+      {
+        "school":"Lien Ha 高校",
+        "graduated":"五月 2016",
+        "achievements": []
+      }
+    ],
+    "work":[
+      {
+        "company":"3F-Group Company",
+        "title":"Internship",
+        "years":"January 2018 - August 2018",
+        "description":["HTML5、CSS、Bootsrap 4、JavaScriptの初心者。 多くの実際のプロジェクトで作業します。 フロントエンド開発に特化した実装。 .NETエンティティフレームワークとSQLサーバーの操作。 私は、レガシー.NETバックエンドを使用して、新しい製品用に新しいノードベースのサーバーを構築しました。 "]
+      },
+      {
+        "company":"Powergate Software",
+        "title":"Junior development",
+        "years":"Setemper 2018 - August 2020",
+        "description":[ "Powergate Softwareで作業することで、アプリケーションのインフラストラクチャシステムを理解することができ、アウトソーシングプロジェクトの管理と維持についてより多くの知識を得ることができます。 ほとんどの場合、モバイルアプリケーションを介した修理サービスの注文に関するインドの会社のプロジェクトに携わっています。このプロジェクトでは、モバイルアプリケーションとnodejs .NETのインターフェイスとしてionic 1を使用するangularjsなどのプログラミング言語を使用していました システムのバックエンドとしてのsqlサーバー。"
+         ,"ここで働いている間、私たちのチームメイトは常に顧客の要件を十分に満たし、このシステム（B8ak）をサウジアラビアのユーティリティリストの最上位に保ちました。 angularjs、ionic 1、.NET、nodejs、sql server、デプロイメント、firebase、ネットワーク、ネイティブコードなどのプログラミング言語の習熟度など、このプロジェクトから多くのものを入手してください。 さらに、英語の文書を読むことができるということは、難しいタスクを分析することから考える良い論理です。"
+          ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%",
+        "img": "/images/tech/git.jpg",
+        "description": "これまでのすべてのプロジェクトでGitを使用しています。 私は小さなチームのバージョン管理にGitを使用しており、オープンソースプロジェクトへの貢献に取り組んできました。"
+      },
+      {
+        "name":"Bootstrap 4",
+        "level":"90%",
+        "img": "/images/tech/bootstrap.jpg",
+        "description" : "私は自分のサイトのレイアウトを設計するときに、Bootstrapを頻繁に使用しています。 これは、私が最もよく知っているフレームワークであり、他のフレームワークよりも迅速に設計できます。"
+      },
+      {
+        "name":".NET",
+        "level":"65%",
+        "img": "/images/tech/Microsoft_.NET_logo.png",
+        "description": "私は.NETフレームワークを使用してゼロからプロジェクトに取り組み始めました。フロントエンドとバックエンドの両方を備えた完全なWebアプリケーションを開発することは本当に良いことですが、そのためいくつかの制限があります。"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%",
+        "img": "/images/tech/react.jpg",
+        "description" : "私はReactにかなり慣れていないので、最初は本当に気に入りませんでした。 それは私にも成長しました、そして私はそれを今後も使い続けます。 この個人サイトの出発点として使用した、ReactJSベースの履歴書Webサイトテンプレート（下記のポートフォリオのリンク）を作成しました。"
+
+      },
+
+      {
+        "name":"Java",
+        "img": "/images/tech/java.jpg",
+        "level":"50%",
+        "description" : "私はJavaでOOPとデータ構造の学習を始め、学校でJavaを使用して、サーバーであるjavaサーブレットとtomcat v8.0で書いたセンターの学生管理プロジェクトを進めていました。"
+      },
+      {
+        "name":"SQL server",
+        "level":"70%",
+        "img": "/images/tech/sqlserver.png",
+        "description": "私は、データ管理とデータ処理のためのストアの書き込みにSQLサーバーを使用しています。"
+      },
+      {
+        "name":"Nodejs",
+        "level":"40%",
+        "img": "/images/tech/nodejs.jpg",
+        "description": "reactjsの学習を始めたとき、nodejsは非常にシンプルで便利なため、常にプロジェクトバックエンドの最初の選択肢でした。"
+      },
+      {
+        "name":"Angularjs",
+        "level":"75%",
+        "img": "/images/tech/angularjs.png",
+        "description" : "私はangularjsでの作業に2年の経験があります。 私がPowergateソフトウェアにいたときのほとんどの時間、私はいつもそれを使ってプロジェクトを行いました。"
+
+      }
+    ],
+    "languages": [
+      {
+        "title" : "English",
+        "skills": [
+          {
+            "name": "Listening",
+            "level": "30%"
+          },
+          {
+            "name": "Writing",
+            "level": "60%"
+          },
+          {
+            "name": "Reading",
+            "level": "80%"
+          }
+        ]
+      },
+      {
+        "title" : "Japanese",
+        "skills": [
+          {
+            "name": "Listening",
+            "level": "40%"
+          },
+          {
+            "name": "Writing",
+            "level": "60%"
+          },
+          {
+            "name": "Reading",
+            "level": "40%"
+          }
+        ]
+      }
+    ]
+    
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"HRM managerment",
+        "category":"The application help manager employee and department",
+        "image":"canadian-wanderlust.jpg",
+        "url":"http://103.237.147.20:5001"
+      },
+
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"LuatSu247",
+        "category":"The first site I work with my team",
+        "image":"luatsu247.png",
+        "url":"https://luatsu247.com.vn/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based my resume website",
+        "image":"resume-website.jpg",
+        "url":"https://my-cv-online-b7945.web.app"
+      },
+      {
+        "title":"GitHub",
+        "category":"Here are some of the source code I wrote myself to improve my skills",
+        "image":"gitsite.png",
+        "url":"https://github.com/flamez100598?tab=repositories"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"私は何度もD withngと一緒に仕事をする機会がありましたが、これはいつも喜びでした。 彼は一貫して前向きな態度で運転され、動機付けられています。 彼は他の人とのコミュニケーションに優れており、目の前の問題を解決するまで、常に一生懸命頑張ります。 彼はいつも私たちを楽しい会話にしてくれ、とても社交的です。",
+        "user":"B8AK Team"
+      }
+    ]
+  }
+}
