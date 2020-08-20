@@ -1,6 +1,11 @@
 import React, { Component } from 'react';
 import { withTranslation } from 'react-multi-lang'
+import PrintButton from './PrintButton';
+import type { T } from 'react-multi-lang';
 
+type Props = {
+   t: T
+ }
  
 class Header extends Component {
   render() {
@@ -35,6 +40,7 @@ class Header extends Component {
       <div className="row banner">
          
          <div className="banner-text">
+         <PrintButton id={"root"} label={t('introduce.view_pdf')}></PrintButton>
             <h1 className="responsive-headline">{t("header.im")} {name}.</h1>
             <h3>{t('introduce.job')} <span>{occupation}</span>. {description}.</h3>
             <hr />

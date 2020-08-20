@@ -20,7 +20,7 @@ const range = (start, end) => {
 };
 
 const PrintButton = ({ id, label }) => (
-  <div className="tc mb4 mt2">
+  <div className="tc mb4 mt2"style={{ width: "200" }} >
     {/*
     Getting pixel height in milimeters:
     https://stackoverflow.com/questions/7650413/pixel-to-mm-equation/27111621#27111621
@@ -55,7 +55,7 @@ const PrintButton = ({ id, label }) => (
           // // Document of a4WidthMm wide and inputHeightMm high
           // if (inputHeightMm > a4HeightMm) {
             // elongated a4 (system print dialog will handle page breaks)
-            const pdf = new jsPDF("p", "mm", [inputHeightMm - 297, a4WidthMm]);
+            const pdf = new jsPDF("p", "mm", [inputHeightMm - 240, a4WidthMm]);
             
           pdf.addImage(imgData, "PNG", 0, 0);
           pdf.save(`${id}.pdf`);

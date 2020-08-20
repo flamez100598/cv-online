@@ -44,13 +44,49 @@
     ]
   },
   "resume":{
+    "languages":[
+      {
+        "title" : "English",
+        "skills": [
+          {
+            "name": "Listening",
+            "level": "30%"
+          },
+          {
+            "name": "Writing",
+            "level": "60%"
+          },
+          {
+            "name": "Reading",
+            "level": "80%"
+          }
+        ]
+      },
+      {
+        "title" : "Japanese",
+        "skills": [
+          {
+            "name": "Listening",
+            "level": "40%"
+          },
+          {
+            "name": "Writing",
+            "level": "60%"
+          },
+          {
+            "name": "Reading",
+            "level": "40%"
+          }
+        ]
+      }
+    ],
     "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies. Can work 32 hours continuously to complete the dealine.",
     "education":[
       {
         "school":"Ha Noi University Of Industry",
         "degree":"Engineer",
         "graduated":"July 2020",
-        "description":"Learn the basics of programming, teamwork skills, the ability to present to a crowd, job solving skills, join the school's computer club!",
+        "description":"Learn the basics of programming, teamwork skills, the ability to present to a crowd, job solving skills, join the school's computer club. Join an Olympic team for Vietnamese students and program international students ACM / ICPC. Very good analytical and thinking problem solving skills, Good programming skills",
         "achievements": [
           {
             "year":2018, "title": "won second prize at ACM / ICPC at school level"
@@ -77,7 +113,7 @@
         "company":"Powergate Software",
         "title":"Junior development",
         "years":"Setemper 2018 - August 2020",
-        "description":[ "Working in the Powergate Software has givent me undertanding a application's infrastructure system and helps me gain more knowledge with managing and maintaining an outsource project. Most of the time I work here on a project of an Saudi Arabia company about ordering a repair service through a mobile application.In this project I was working with a programming language such as angularjs with ionic 1 as the interface for mobile application and nodejs .NET and sql server as backend for the system."
+        "description":[ "Working in the Powergate Software has givent me undertanding a application's infrastructure system and helps me gain more knowledge with managing and maintaining an outsource project. Most of the time I work here on a project of an Indian company about ordering a repair service through a mobile application.In this project I was working with a programming language such as angularjs with ionic 1 as the interface for mobile application and nodejs .NET and sql server as backend for the system."
          ,"During the time working here, our teammates always fulfilled the requirements of the customers well and kept this system (B8ak) at the top of the utility list in Saudi Arabia. Get a lot of things from this project like proficiency in programming languages such as angularjs, ionic 1, .NET, nodejs, sql server, deployment, firebase, network and native code. In addition, having the ability to read English documents is good logic of thinking from analyzing difficult tasks"
           ]
       }
@@ -97,7 +133,7 @@
       },
       {
         "name":".NET",
-        "level":"65%",
+        "level":"75%",
         "img": "/images/tech/Microsoft_.NET_logo.png",
         "description": "I have started working on the project from scratch with .NET framework, it is really good for me to develop a full web application with both front-end and back-end but there are some limitations because of that."
       },
@@ -134,42 +170,6 @@
         "description" : "I have 2 years of experience working with angularjs. Most of the time I was at Powergate software I always did a project with it"
 
       }
-    ],
-    "languages": [
-      {
-        "title" : "English",
-        "skills": [
-          {
-            "name": "Listening",
-            "level": "30%"
-          },
-          {
-            "name": "Writing",
-            "level": "60%"
-          },
-          {
-            "name": "Reading",
-            "level": "80%"
-          }
-        ]
-      },
-      {
-        "title" : "Japanese",
-        "skills": [
-          {
-            "name": "Listening",
-            "level": "40%"
-          },
-          {
-            "name": "Writing",
-            "level": "60%"
-          },
-          {
-            "name": "Reading",
-            "level": "40%"
-          }
-        ]
-      }
     ]
   },
   "portfolio":{
@@ -189,7 +189,7 @@
       },
       {
         "title":"LuatSu247",
-        "category":"The application help people close approach to the law in VietName and support always when people difficulty using the law",
+        "category":"The first site I work with my team",
         "image":"luatsu247.png",
         "url":"https://luatsu247.com.vn/"
       },
