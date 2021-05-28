@@ -40,6 +40,18 @@
         "name":"skype",
         "url":"https://join.skype.com/invite/n9NEhY44R72z",
         "className":"fa fa-skype"
+      },
+      {
+        "title":"Stick Note App",
+        "category":"Help note some to do list, task list you have done!",
+        "image":"stickapp.png",
+        "url":"https://project-demo-c3e2d.web.app/"
+      },
+      {
+        "title":"Stick Note App",
+        "category":"Help note some to do list, task list you have done!",
+        "image":"stickapp.png",
+        "url":"https://project-demo-c3e2d.web.app/"
       }
     ]
   },
@@ -203,6 +215,18 @@
         "category":"Here are some of the source code I wrote myself to improve my skills",
         "image":"gitsite.png",
         "url":"https://github.com/flamez100598?tab=repositories"
+      },
+      {
+        "title":"Stick Note App",
+        "category":"Help note some to do list, task list you have done!",
+        "image":"stickapp.png",
+        "url":"https://project-demo-c3e2d.web.app/"
+      },
+      {
+        "title":"Quiz App",
+        "category":"This is my quiz app demo!",
+        "image":"quizApp.png",
+        "url":"https://angularbot-eeab2.web.app"
       }
     ]
   },

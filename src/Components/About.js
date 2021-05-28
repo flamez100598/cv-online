@@ -1,12 +1,7 @@
 import React, { Component } from 'react';
 import { withTranslation, } from 'react-multi-lang'
 import PrintButton from './PrintButton';
-import type { T } from 'react-multi-lang';
 
-
-type Props = {
-   t: T
- }
  
 class About extends Component {
   render() {
@@ -57,7 +52,7 @@ class About extends Component {
                      <div className="clear-both"></div>
                   </p>
                   <p>
-                     <a href={resumeDownload} className="button" ><i className="fa fa-download" ></i>
+                     <a href="/CVPhamQuocDung.docx" className="button" ><i className="fa fa-download" ></i>
                      {t('introduce.download_resume')}
                      
                      </a>

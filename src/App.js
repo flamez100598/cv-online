@@ -14,9 +14,6 @@ import Portfolio from './Components/Portfolio';
 // Do this two lines only when setting up the application
 import {  withTranslation, setLanguage, getLanguage } from 'react-multi-lang'
 
-import type { T } from 'react-multi-lang';
-
-
 
 class App extends React.Component {
   constructor(props) {
@@ -70,9 +67,9 @@ class App extends React.Component {
 
         <Header data={this.state.resumeData.main} />
         <ul className="selectLanguages">
-          <li><span className={getLanguage() === 'jp' ? 'btn-tranfer button active-language' : 'btn-tranfer button'} onClick={() => this.changeLanguage('jp')}>JP</span></li>
-          <li><span className={getLanguage() === 'en' ? 'btn-tranfer button active-language' : 'btn-tranfer button'} onClick={() => this.changeLanguage('en')}>EN</span></li>
-          <li><span className={getLanguage() === 'vn' ? 'btn-tranfer button active-language' : 'btn-tranfer button'} onClick={() => this.changeLanguage('vn')}>VN</span></li>
+          <li><span className={getLanguage() === 'jp' ? 'btn-tranfer button active-language smoothscroll' : 'btn-tranfer button smoothscroll'} onClick={() => this.changeLanguage('jp')}>JP</span></li>
+          <li><span className={getLanguage() === 'en' ? 'btn-tranfer button active-language smoothscroll' : 'btn-tranfer button smoothscroll'} onClick={() => this.changeLanguage('en')}>EN</span></li>
+          <li><span className={getLanguage() === 'vn' ? 'btn-tranfer button active-language smoothscroll' : 'btn-tranfer button smoothscroll'} onClick={() => this.changeLanguage('vn')}>VN</span></li>
         </ul>
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />

@@ -40,6 +40,12 @@
         "name":"skype",
         "url":"https://join.skype.com/invite/n9NEhY44R72z",
         "className":"fa fa-skype"
+      },
+      {
+        "title":"Stick Note App",
+        "category":"Help note some to do list, task list you have done!",
+        "image":"stickapp.png",
+        "url":"https://project-demo-c3e2d.web.app/"
       }
     ]
   },
@@ -205,13 +211,25 @@
         "category": "スキルを向上させるために自分で書いたソースコードの一部を以下に示します。 ",
         "image":"gitsite.png",
         "url":"https://github.com/flamez100598?tab=repositories"
+      },
+      {
+        "title":"Stick Note App",
+        "category":"Help note some to do list, task list you have done!",
+        "image":"stickapp.png",
+        "url":"https://project-demo-c3e2d.web.app/"
+      },
+      {
+        "title":"Quiz App",
+        "category":"This is my quiz app demo!",
+        "image":"quizApp.png",
+        "url":"https://angularbot-eeab2.web.app"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"私は何度もD withngと一緒に仕事をする機会がありましたが、これはいつも喜びでした。 彼は一貫して前向きな態度で運転され、動機付けられています。 彼は他の人とのコミュニケーションに優れており、目の前の問題を解決するまで、常に一生懸命頑張ります。 彼はいつも私たちを楽しい会話にしてくれ、とても社交的です。",
+        "text":"私は何度もDũng と一緒に仕事をする機会がありましたが、これはいつも喜びでした。 彼は一貫して前向きな態度で運転され、動機付けられています。 彼は他の人とのコミュニケーションに優れており、目の前の問題を解決するまで、常に一生懸命頑張ります。 彼はいつも私たちを楽しい会話にしてくれ、とても社交的です。",
         "user":"B8AK Team"
       }
     ]

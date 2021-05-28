@@ -82,16 +82,19 @@
 		var h = $('header').height();
 		var y = $(window).scrollTop();
       var nav = $('#nav-wrap');
-
+      var changeLanguage = $('.selectLanguages')
 	   if ( (y > h*.20) && (y < h) && ($(window).outerWidth() > 768 ) ) {
-	      nav.fadeOut('fast');
+         nav.fadeOut('fast');
+         changeLanguage.fadeOut('fast');
 	   }
       else {
          if (y < h*.20) {
             nav.removeClass('opaque').fadeIn('fast');
+            changeLanguage.removeClass('opaque').fadeIn('fast');
          }
          else {
             nav.addClass('opaque').fadeIn('fast');
+            changeLanguage.addClass('opaque').fadeIn('fast');
          }
       }
 
